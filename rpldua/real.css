@@ -1,0 +1,31 @@
+.img-istj{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.istj{
+    height: 900px;
+    width: auto;
+    border-radius: 25px;
+}
+.img{
+    border-radius: 25px;
+    
+}
+.kotak{
+    border: 1px solid rgb(120, 112, 112);
+  width: 1000px;
+  height: 230px;
+  padding: 10px;
+  border-radius: 8px;
+    
+    
+}
+.kiri{
+    float: left;
+}
+.kanan{
+    width: 70%;
+    padding: 0px 10px;
+    float: left;
+}
